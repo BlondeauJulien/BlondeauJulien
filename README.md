@@ -10,6 +10,8 @@ You can check out my portfolio at https://www.julienblondeau.com or see my work 
 
 ### Learn language app
 A full stack application to create your own mini vocabulary flashcard lists & quizzes or learn from the other users ones. This include a small algorithm that display words you don't remember more often.
+
+<a href="https://github.com/BlondeauJulien/language-app">SEE THE CODE HERE</>
   
 <img src="/images/learnlanguagevideo.gif" width="629" height="310">
 
