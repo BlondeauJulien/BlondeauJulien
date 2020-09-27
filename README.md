@@ -45,5 +45,5 @@ A front end application to play 501 darts and keep track of your games and stats
  * Visualisation of players statistics.
  * Instant update of the best possible finishes after each throw.
 
-**About** <br/>
+**About**: <br/><br/>
 After we started to play darts with some friends, we didn't find any webapp with all the functionalities we wished for so I made this application for our games and to keep a trace of our statistics/progress. 
