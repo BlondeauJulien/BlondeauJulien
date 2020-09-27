@@ -33,4 +33,4 @@ A front end application to play 501 darts and keep track of your games and stats
 <a href="https://blondeaujulien.github.io/dart-scoring/">SEE THE LIVE DEMO HERE</a> <br />
 <a href="https://github.com/BlondeauJulien/dart-scoring">SEE THE CODE HERE</a>
   
-<img src="scoringdartspresentation.gif">
+<img src="/images/scoringdartspresentation.gif">
