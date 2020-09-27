@@ -8,4 +8,4 @@ I mainly focus on **JavaScript**, **React.js**, **NodeJS** and **mongoDB** but w
 
 You can check out my work at <a href=https://www.julienblondeau.com" target="_blank">https://www.julienblondeau.com</a>
   
-<img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fi.ytimg.com%2Fvi%2FH9P_wkq08XA%2Fmaxresdefault.jpg&f=1&nofb=1" width="50" height="50">
+<img src="/images/learnlanguagevideo.gif" width="629" height="310">
