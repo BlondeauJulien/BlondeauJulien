@@ -6,6 +6,6 @@ I'm Julien, a developer :computer: who likes to write code both in the front and
 
 I mainly focus on **JavaScript**, **React.js**, **NodeJS** and **mongoDB** but would love to discover and learn your stack. 
 
-You can check out my work at <a href=https://www.julienblondeau.com" target="_blank">https://www.julienblondeau.com</a>
+You can check out my work at https://www.julienblondeau.com or continue below
   
 <img src="/images/learnlanguagevideo.gif" width="629" height="310">
