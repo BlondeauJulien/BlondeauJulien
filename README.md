@@ -11,10 +11,10 @@ You can check out my portfolio at https://www.julienblondeau.com or see my work 
 ### 1 - Learn language app
 A full stack application to create your own mini vocabulary flashcard lists & quizzes or learn from the other users ones. This include a small algorithm that display words you don't remember more often.
 
-<a href="http://learnyourway.herokuapp.com/">SEE THE LIVE DEMO HERE</a> (could take a few seconds to load as heroku free tier put the server to sleep after 30 minutes of inactivity)<br />
+<a href="http://learnyourway.herokuapp.com/">SEE THE LIVE DEMO HERE</a> (could take a few seconds to load as heroku free tier put the server to sleep after 30 minutes of inactivity) <br />
 <a href="https://github.com/BlondeauJulien/language-app">SEE THE CODE HERE</a>
   
-<img src="/images/learnlanguagevideo.gif" width="629" height="310">
+<img src="/images/learnlanguagevideo.gif">
 
 **Stack:** 
 * Front End with: HTML, CSS, Javascript ES6, React.
@@ -26,3 +26,11 @@ A full stack application to create your own mini vocabulary flashcard lists & qu
  * Create, edit, delete courses, words, quizzes.
  * Vocabulary review via a small algorithm that permit to see the words you struggle with more often.
  * Admin and moderator panel (ban users, delete courses, images...).
+
+### 2 - Darts Scoring 501
+A front end application to play 501 darts and keep track of your games and stats. It is using Local Storage to save users data, this permit the display of charts to follow your progress over time.
+
+<a href="https://blondeaujulien.github.io/dart-scoring/">SEE THE LIVE DEMO HERE</a> <br />
+<a href="https://github.com/BlondeauJulien/dart-scoring">SEE THE CODE HERE</a>
+  
+<img src="scoringdartspresentation.gif">
