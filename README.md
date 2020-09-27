@@ -34,3 +34,16 @@ A front end application to play 501 darts and keep track of your games and stats
 <a href="https://github.com/BlondeauJulien/dart-scoring">SEE THE CODE HERE</a>
   
 <img src="/images/scoringdartspresentation.gif">
+
+**Stack:** 
+* Front End with: HTML, CSS, Javascript ES6, React.
+* Back End with: No back end, using local storage to store data.
+
+**Key features**:
+ * Clickable dartboard.
+ * Save all the games data.
+ * Visualisation of players statistics.
+ * Instant update of the best possible finishes after each throw.
+
+**About**
+After we started to play darts with some friends, we didn't find any webapp with all the functionalities we wished for so I made this application for our games and to keep a trace of our statistics/progress. 
