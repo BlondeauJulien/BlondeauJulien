@@ -72,3 +72,9 @@ A full stack recipe app taking the main functionalities and the design of one of
  **About**
 
 This is the first sizable full stack application I made. I started to work on it right after a course on React.js and learning the basics of NodeJS and mongoDB. #learningByDoing.
+
+### Want to add me to your team and work together? 
+#### Feel free to contact me!
+
+:e-mail: julienblondeau@protonmail.com <br/>
+:briefcase: <a href="https://github.com/BlondeauJulien/language-app">Linkedin</a>
