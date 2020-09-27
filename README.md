@@ -8,9 +8,10 @@ I mainly focus on **JavaScript**, **React.js**, **NodeJS** and **mongoDB** but w
 
 You can check out my portfolio at https://www.julienblondeau.com or see my work below
 
-### Learn language app
+### 1 - Learn language app
 A full stack application to create your own mini vocabulary flashcard lists & quizzes or learn from the other users ones. This include a small algorithm that display words you don't remember more often.
 
+<a href="http://learnyourway.herokuapp.com/">SEE THE LIVE DEMO HERE</a> (could take a few seconds to load as heroku free tier put the server to sleep after 30 minutes of inactivity)
 <a href="https://github.com/BlondeauJulien/language-app">SEE THE CODE HERE</a>
   
 <img src="/images/learnlanguagevideo.gif" width="629" height="310">
