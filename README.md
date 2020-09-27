@@ -52,7 +52,7 @@ After we started to play darts with some friends, we didn't find any webapp with
 ### 3 - Marmibon
 A full stack recipe app taking the main functionalities and the design of one of the most visited recipe website in France.
 
-<a href="https://marmibon.herokuapp.com/">SEE THE LIVE DEMO HERE</a> <br />
+<a href="https://marmibon.herokuapp.com/">SEE THE LIVE DEMO HERE</a> <br /> (could take a few seconds to load as heroku free tier put the server to sleep after 30 minutes of inactivity) 
 <a href="https://github.com/BlondeauJulien/Marmibon-recipe">SEE THE CODE HERE</a>
   
 <img src="/images/marmibonpresentation.gif">
