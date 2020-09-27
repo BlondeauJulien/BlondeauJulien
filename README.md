@@ -77,4 +77,4 @@ This is the first sizable full stack application I made. I started to work on it
 ### Feel free to contact me!
 
 :e-mail: julienblondeau@protonmail.com <br/>
-:briefcase: <a href="https://github.com/BlondeauJulien/language-app">Linkedin</a>
+:briefcase: <a href="https://www.linkedin.com/in/julien-blondeau-61a0541b5/">Linkedin</a>
