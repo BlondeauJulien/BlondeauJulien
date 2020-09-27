@@ -9,7 +9,7 @@ I mainly focus on **JavaScript**, **React.js**, **NodeJS** and **mongoDB** but w
 You can check out my portfolio at https://www.julienblondeau.com or see my work below
 
 ### 1 - Learn language app
-A full stack application to create your own mini vocabulary flashcard lists & quizzes or learn from the other users ones. This include a small algorithm that display words you don't remember more often.
+A full stack application to create your own vocabulary flashcard lists & quizzes or learn from the other users ones. This include a small algorithm that display words you don't remember more often.
 
 <a href="http://learnyourway.herokuapp.com/">SEE THE LIVE DEMO HERE</a> (could take a few seconds to load as heroku free tier put the server to sleep after 30 minutes of inactivity) <br />
 <a href="https://github.com/BlondeauJulien/language-app">SEE THE CODE HERE</a>
@@ -20,6 +20,7 @@ A full stack application to create your own mini vocabulary flashcard lists & qu
 * Front End with: HTML, CSS, Javascript ES6, React.
 * Back End with: NodeJS (express), mongoDB.
 * Test: TDD for the API using jest. Front end react-testing-library - jest.
+* Responsive mobile & tablet
 
 **Key features**:
  * Create, edit, delete your account.
@@ -45,5 +46,28 @@ A front end application to play 501 darts and keep track of your games and stats
  * Visualisation of players statistics.
  * Instant update of the best possible finishes after each throw.
 
-**About**: <br/><br/>
+**About**
 After we started to play darts with some friends, we didn't find any webapp with all the functionalities we wished for so I made this application for our games and to keep a trace of our statistics/progress. 
+
+### 3 - Marmibon
+A full stack recipe app taking the main functionalities and the design of one of the most visited recipe website in France.
+
+<a href="https://marmibon.herokuapp.com/">SEE THE LIVE DEMO HERE</a> <br />
+<a href="https://github.com/BlondeauJulien/Marmibon-recipe">SEE THE CODE HERE</a>
+  
+<img src="/images/marmibonpresentation.gif">
+
+**Stack:** 
+* Front End with: HTML, CSS, Javascript ES6, React.
+* Back End with: NodeJS (express), mongoDB.
+* Responsive mobile & tablet
+
+**Key features**:
+ * Account creation.
+ * Create, edit and delete recipes.
+ * Add recipes to favorites.
+ * Like, rate and comment recipes.
+
+ **About**
+
+This is the first sizable full stack application I made. I started to work on it right after a course on React.js and learning the basics of NodeJS and mongoDB. #learningByDoing.
