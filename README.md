@@ -11,8 +11,8 @@ You can check out my portfolio at https://www.julienblondeau.com or see my work 
 ### 1 - Learn language app
 A full stack application to create your own vocabulary flashcard lists & quizzes or learn from the other users ones. This include a small algorithm that display words you don't remember more often.
 
-:point_right: <a href="http://learnyourway.herokuapp.com/">SEE THE LIVE DEMO HERE</a> (could take a few seconds to load as heroku free tier put the server to sleep after 30 minutes of inactivity) <br />
-:point_right: <a href="https://github.com/BlondeauJulien/language-app">SEE THE CODE HERE</a>
+:point_right: **<a href="http://learnyourway.herokuapp.com/">SEE THE LIVE DEMO HERE</a>** (could take a few seconds to load as heroku free tier put the server to sleep after 30 minutes of inactivity) <br />
+:point_right: **<a href="https://github.com/BlondeauJulien/language-app">SEE THE CODE HERE</a>**
   
 <img src="/images/learnlanguagevideo.gif">
 
@@ -31,8 +31,8 @@ A full stack application to create your own vocabulary flashcard lists & quizzes
 ### 2 - Darts Scoring 501
 A front end application to play 501 darts and keep track of your games and stats. It is using Local Storage to save users data, this permit the display of charts to follow your progress over time.
 
-:point_right: <a href="https://blondeaujulien.github.io/dart-scoring/">SEE THE LIVE DEMO HERE</a> <br />
-:point_right: <a href="https://github.com/BlondeauJulien/dart-scoring">SEE THE CODE HERE</a>
+:point_right: **<a href="https://blondeaujulien.github.io/dart-scoring/">SEE THE LIVE DEMO HERE</a>** <br />
+:point_right: **<a href="https://github.com/BlondeauJulien/dart-scoring">SEE THE CODE HERE</a>**
   
 <img src="/images/scoringdartspresentation.gif">
 
@@ -53,8 +53,8 @@ After we started to play darts with some friends, we didn't find any webapp with
 ### 3 - Marmibon
 A full stack recipe app taking the main functionalities and the design of one of the most visited recipe website in France.
 
-:point_right: <a href="https://marmibon.herokuapp.com/">SEE THE LIVE DEMO HERE</a> (could take a few seconds to load as heroku free tier put the server to sleep after 30 minutes of inactivity)  <br /> 
-:point_right: <a href="https://github.com/BlondeauJulien/Marmibon-recipe">SEE THE CODE HERE</a>
+:point_right: **<a href="https://marmibon.herokuapp.com/">SEE THE LIVE DEMO HERE</a>** (could take a few seconds to load as heroku free tier put the server to sleep after 30 minutes of inactivity)  <br /> 
+:point_right: **<a href="https://github.com/BlondeauJulien/Marmibon-recipe">SEE THE CODE HERE</a>**
   
 <img src="/images/marmibonpresentation.gif">
 
