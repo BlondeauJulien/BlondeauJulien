@@ -29,7 +29,7 @@ A full stack application to create your own vocabulary flashcard lists & quizzes
  * Admin and moderator panel (ban users, delete courses, images...).
 
 ### 2 - Darts Scoring 501
-A front end application to play 501 darts and keep track of your games and stats. It is using Local Storage to save users data, this permit the display of charts to follow your progress over time.
+A front end application to play and keep track of your 501 darts games and stats. It is using Local Storage to save users data, this permit the display of charts to follow your progress over time.
 
 :point_right: **<a href="https://blondeaujulien.github.io/dart-scoring/">SEE THE LIVE DEMO HERE</a>** <br />
 :point_right: **<a href="https://github.com/BlondeauJulien/dart-scoring">SEE THE CODE HERE</a>**
