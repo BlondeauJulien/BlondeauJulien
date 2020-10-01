@@ -79,6 +79,6 @@ This is the first sizable full stack application I made. I started to work on it
 :e-mail: julienblondeaupro@protonmail.com <br/>
 :briefcase: <a href="https://www.linkedin.com/in/julien-blondeau-61a0541b5/">Linkedin</a>
 
-Thank you for passing by.
-Cheers,
+Thank you for passing by. <br/>
+Cheers, <br/>
 Julien.
