@@ -7,7 +7,7 @@ I'm Julien, a developer who likes to write code both in the front and back end.
 I mainly focus on **JavaScript**, **React.js**, **NodeJS** and **mongoDB** but would love to discover and learn your stack. <br/>
 
 
-<img align="left" height="28px" src="https://upload.wikimedia.org/wikipedia/commons/d/de/HTML5_oval_logo.png">
+<img align="left"  height="28px" src="https://upload.wikimedia.org/wikipedia/commons/d/de/HTML5_oval_logo.png">
 <img align="left" height="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/544px-CSS3_logo_and_wordmark.svg.png">
 <img align="left" height="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/900px-JavaScript-logo.png">
 <img align="left" height="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/React.svg/768px-React.svg.png">
@@ -16,7 +16,7 @@ I mainly focus on **JavaScript**, **React.js**, **NodeJS** and **mongoDB** but w
 <img align="left" height="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Git-logo.svg/768px-Git-logo.svg.png"> 
 <img align="left" height="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Npm-logo.svg/810px-Npm-logo.svg.png"> 
 <img align="left" height="26px" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fmiro.medium.com%2Fmax%2F956%2F1*Ov3_LfV1tNqb0PMioxvpaw.png&f=1&nofb=1"> 
-<img align="left" height="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/768px-Typescript_logo_2020.svg.png"> 
+<img align="left" height="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/768px-Typescript_logo_2020.svg.png">  <br/> <br/>
 
 <br/>
 <br/>
